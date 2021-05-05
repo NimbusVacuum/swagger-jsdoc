@@ -1,15 +1,2 @@
-.editorconfig
-.nvmrc
-.git*
-.eslintignore
-.prettierignore
-.prettierrc
-.c9
-.nvm
-.eslintrc.js
-examples/
-docs/
-jsdoc/
 test/
 coverage/
-README.md
